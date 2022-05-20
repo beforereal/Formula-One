@@ -1,0 +1,61 @@
+
+body {
+    background-color:beige; 
+    text-align: center;
+    list-style-position: inside;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+
+
+
+}
+
+h1 {
+    font-size: 45px;
+    font-family: 'Grape Nuts', cursive;
+    font-weight: 100;
+    font-style: oblique;
+    color:crimson ;
+}
+
+
+
+
+
+.point-table {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;     
+    border-spacing: 100px 15px;
+    border-color: black;
+    width: 60%;
+}
+
+.information {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.TeamPoints {
+
+    font-size: 30px;
+    font-weight: lighter ;
+}
+
+.Drivers {
+
+    font-size: 30px;
+    font-weight: lighter ;
+    list-style-type: none;
+}
+
+.intros {
+    font-size: 20px;
+}
+
+.p-update {
+    text-align: right;
+    font-size: 15px;
+}
+
